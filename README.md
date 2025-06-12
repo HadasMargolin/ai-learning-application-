@@ -76,6 +76,7 @@ REACT_APP_API_BASE_URL=http://localhost:7066/api
   "ApiKey": "YOUR_API_KEY_HERE"
 }
 }
+###The OpenAI API key is **not included** in this repository for security reasons.  
 ```
 
 > Replace `"0556722371"` with your actual DB password if needed.
@@ -112,7 +113,7 @@ The application connects to this container via the configured connection string 
 - Learning history per user
 - Admin dashboard to view all users and prompts
 
-> 🔐 The default admin code is: `letmein123`
+> 🔐 The default admin code is: `admin123`
 
 ---
 
