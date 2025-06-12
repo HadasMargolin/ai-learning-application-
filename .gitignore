@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+
+# Backend artifacts
+bin/
+obj/
+
+# Environments
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
